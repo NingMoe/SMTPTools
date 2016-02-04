@@ -27,6 +27,3 @@ CREATE TABLE emailtbc (
 INSERT INTO emailtbc VALUES ('smiler','ty000001','apol-mp.com.tw','n53990','20','',1,'10');
 INSERT INTO emailtbc VALUES ('ty000002','sean','apol-mp.com.tw','c498t49h','20','',1,'10');
 INSERT INTO emailtbc VALUES ('ty000003','max8020','apol-mp.com.tw','d5wusu8d','20','',1,'10');
-INSERT INTO emailtbc VALUES ('ty001388','markcute','apol-mp.com.tw','1018','20','',0,'10');
-INSERT INTO emailtbc VALUES ('ty000005','alvin','apol-mp.com.tw','f749xb4r','20','',1,'10');
-INSERT INTO emailtbc VALUES ('ty000006','rwj8642','apol-mp.com.tw','rwj8642','20','',1,'10');
